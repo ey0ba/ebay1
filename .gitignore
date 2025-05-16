@@ -1,0 +1,16 @@
+test.py
+test2.py
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore test files
+test.py
+test2.py
+
+# Ignore system files
+.DS_Store
+
