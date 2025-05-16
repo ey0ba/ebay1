@@ -10,6 +10,7 @@ venv/
 # Ignore test files
 test.py
 test2.py
+git.md
 
 # Ignore system files
 .DS_Store
